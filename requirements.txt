@@ -1,0 +1,16 @@
+pytorch-lightning==1.9
+torch
+scipy
+matplotlib
+einops
+opencv-python
+h5py
+librosa
+torch-ema
+wandb
+pesq
+pystoi
+python-papi
+tensorboard
+ninja
+pydub
